@@ -1,0 +1,19 @@
+.Class {
+    background-color: rgb(226, 156, 130);
+    font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.CoolerClass {
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: rgb(142, 255, 127);
+    font-weight: bold;
+    font-size: 24px;
+}
